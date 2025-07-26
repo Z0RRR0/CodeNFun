@@ -35,29 +35,29 @@ This is a beginner-level project I built as part of my Day 5 of the #100DaysOfCo
 
 ⚙️ Tech Stack
 
-1.React
+1.✅ React
 
-2.Tailwind CSS
+2.✅ Tailwind CSS
 
-3.JavaScript
+3.✅ JavaScript
 
-4.XMLHttpRequest for API call
+4.✅ XMLHttpRequest for API call
 
 
 🚀 API Used
 
-1.GitHub Users API
+1.✅ GitHub Users API
 
 
 📚 What I Learned
 
-1.Using useState to manage dynamic data
+1.✅ Using useState to manage dynamic data
 
-2.Conditionally rendering components in React
+2.✅ Conditionally rendering components in React
 
-3.Styling layouts with Tailwind
+3.✅ Styling layouts with Tailwind
 
-4.Making API calls using XMLHttpRequest manually
+4.✅ Making API calls using XMLHttpRequest manually
 
-5.Event-driven UI handling with buttons
+5.✅ Event-driven UI handling with buttons
 
